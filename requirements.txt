@@ -1,5 +1,2 @@
-numpy
-random
-time
-os
-json
+
+matplotlib
